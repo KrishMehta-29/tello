@@ -1,2 +1,2 @@
 # Tello
-For the DJI Tello Drone
+For the controlling of the DJI Tello Drone automatically using your computer!
